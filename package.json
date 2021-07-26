@@ -1,0 +1,12 @@
+{
+    "id": "myModTest",
+    "name": "testmod",
+    "version": "0.1.0",
+    "author": "Matthew Young <thecoletrain47@gmail.com>",
+    "description": "A mod that tests ideas",
+    "url": "",
+    "main": "./main.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x"
+    }
+}
